@@ -1,6 +1,6 @@
 # Dogs!
 
-Here are a few reasons why dogs rock. Click [here]() to check it out!
+Here are a few reasons why dogs rock. Click [here](https://raseward14.github.io/Dogs/) to check it out!
 
 ### Instructions
 
